@@ -3,7 +3,7 @@
 <H3>Name:PRASANNA G R</H3>
 <H3>Register No:212221040129</H3>
 <H3>Experiment-2</H3>
-<H3>Date:30.4.2024</H3>
+<H3>Date:12.8.2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## AIM:
